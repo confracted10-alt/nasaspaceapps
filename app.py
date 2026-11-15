@@ -1199,4 +1199,4 @@ st.markdown(
     unsafe_allow_html=True,
 )
 import streamlit as st
-NASA_FIRMS_MAP_KEY = st.secrets["a2235a284966847c77dcd2cb27ba7d45"]
+NASA_FIRMS_MAP_KEY = st.secrets["FIRMS_MAP_KEY"]
