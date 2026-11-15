@@ -1198,3 +1198,5 @@ st.markdown(
     'fire cause, severity, or ground conditions. The globe currently uses an ellipsoid without high-resolution terrain.</div>',
     unsafe_allow_html=True,
 )
+import streamlit as st
+NASA_FIRMS_MAP_KEY = st.secrets["a2235a284966847c77dcd2cb27ba7d45"]
